@@ -1,0 +1,101 @@
+review_id,product_name,review_text,rating,sentiment
+R001,Headphones,"The sound quality is crisp and clear, with great noise cancellation.",4,Positive
+R002,Camera,The camera works fine for beginners but not suitable for professionals.,3,Neutral
+R003,Camera,The camera is bulky and the image quality is not as expected.,1,Negative
+R004,Tablet,The tablet freezes often and has limited storage capacity.,1,Negative
+R005,Laptop,The laptop is okay for its price but lacks advanced features.,3,Neutral
+R006,Headphones,The headphones are fine for casual listening but lack bass.,3,Neutral
+R007,Headphones,The headphones are fine for casual listening but lack bass.,3,Neutral
+R008,Phone,The phone lags frequently and the battery drains too fast.,2,Negative
+R009,Headphones,The headphones are fine for casual listening but lack bass.,3,Neutral
+R010,Phone,The phone has an excellent camera and smooth performance. Highly recommended!,5,Positive
+R011,Tablet,The tablet freezes often and has limited storage capacity.,2,Negative
+R012,Laptop,The laptop performs exceptionally well with great battery life and a sleek design.,4,Positive
+R013,Laptop,The laptop is okay for its price but lacks advanced features.,3,Neutral
+R014,Camera,The camera is bulky and the image quality is not as expected.,2,Negative
+R015,Tablet,The tablet works well but feels a bit overpriced.,3,Neutral
+R016,Headphones,The headphones are fine for casual listening but lack bass.,3,Neutral
+R017,Camera,"The camera captures stunning images, even in low light conditions.",4,Positive
+R018,Laptop,The laptop performs exceptionally well with great battery life and a sleek design.,5,Positive
+R019,Tablet,The tablet works well but feels a bit overpriced.,3,Neutral
+R020,Camera,"The camera captures stunning images, even in low light conditions.",4,Positive
+R021,Phone,"The phone is decent, but there are better options at this price range.",3,Neutral
+R022,Tablet,The tablet works well but feels a bit overpriced.,3,Neutral
+R023,Phone,The phone has an excellent camera and smooth performance. Highly recommended!,5,Positive
+R024,Laptop,The laptop performs exceptionally well with great battery life and a sleek design.,4,Positive
+R025,Headphones,"The headphones stopped working after a month, very poor durability.",1,Negative
+R026,Phone,The phone lags frequently and the battery drains too fast.,2,Negative
+R027,Phone,"The phone is decent, but there are better options at this price range.",3,Neutral
+R028,Phone,The phone has an excellent camera and smooth performance. Highly recommended!,5,Positive
+R029,Camera,The camera is bulky and the image quality is not as expected.,2,Negative
+R030,Headphones,The headphones are fine for casual listening but lack bass.,3,Neutral
+R031,Tablet,The tablet freezes often and has limited storage capacity.,2,Negative
+R032,Laptop,"The laptop runs too slow and heats up quickly, very disappointing experience.",1,Negative
+R033,Camera,The camera works fine for beginners but not suitable for professionals.,3,Neutral
+R034,Camera,"The camera captures stunning images, even in low light conditions.",5,Positive
+R035,Phone,The phone has an excellent camera and smooth performance. Highly recommended!,4,Positive
+R036,Tablet,The tablet freezes often and has limited storage capacity.,2,Negative
+R037,Tablet,The tablet is lightweight and perfect for reading and entertainment.,4,Positive
+R038,Tablet,The tablet works well but feels a bit overpriced.,3,Neutral
+R039,Camera,The camera works fine for beginners but not suitable for professionals.,3,Neutral
+R040,Laptop,The laptop performs exceptionally well with great battery life and a sleek design.,5,Positive
+R041,Laptop,"The laptop runs too slow and heats up quickly, very disappointing experience.",2,Negative
+R042,Phone,"The phone is decent, but there are better options at this price range.",3,Neutral
+R043,Tablet,The tablet is lightweight and perfect for reading and entertainment.,4,Positive
+R044,Phone,The phone lags frequently and the battery drains too fast.,1,Negative
+R045,Headphones,"The headphones stopped working after a month, very poor durability.",2,Negative
+R046,Camera,"The camera captures stunning images, even in low light conditions.",4,Positive
+R047,Camera,The camera is bulky and the image quality is not as expected.,1,Negative
+R048,Tablet,The tablet is lightweight and perfect for reading and entertainment.,4,Positive
+R049,Phone,The phone has an excellent camera and smooth performance. Highly recommended!,4,Positive
+R050,Camera,"The camera captures stunning images, even in low light conditions.",4,Positive
+R051,Tablet,The tablet is lightweight and perfect for reading and entertainment.,5,Positive
+R052,Camera,The camera works fine for beginners but not suitable for professionals.,3,Neutral
+R053,Phone,"The phone is decent, but there are better options at this price range.",3,Neutral
+R054,Phone,The phone lags frequently and the battery drains too fast.,1,Negative
+R055,Camera,The camera is bulky and the image quality is not as expected.,2,Negative
+R056,Phone,The phone lags frequently and the battery drains too fast.,2,Negative
+R057,Tablet,The tablet freezes often and has limited storage capacity.,1,Negative
+R058,Phone,The phone has an excellent camera and smooth performance. Highly recommended!,5,Positive
+R059,Tablet,The tablet freezes often and has limited storage capacity.,1,Negative
+R060,Laptop,The laptop is okay for its price but lacks advanced features.,3,Neutral
+R061,Laptop,"The laptop runs too slow and heats up quickly, very disappointing experience.",2,Negative
+R062,Laptop,"The laptop runs too slow and heats up quickly, very disappointing experience.",1,Negative
+R063,Laptop,The laptop is okay for its price but lacks advanced features.,3,Neutral
+R064,Camera,The camera works fine for beginners but not suitable for professionals.,3,Neutral
+R065,Phone,The phone has an excellent camera and smooth performance. Highly recommended!,4,Positive
+R066,Tablet,The tablet is lightweight and perfect for reading and entertainment.,5,Positive
+R067,Headphones,"The headphones stopped working after a month, very poor durability.",1,Negative
+R068,Headphones,"The headphones stopped working after a month, very poor durability.",2,Negative
+R069,Headphones,The headphones are fine for casual listening but lack bass.,3,Neutral
+R070,Tablet,The tablet works well but feels a bit overpriced.,3,Neutral
+R071,Camera,The camera is bulky and the image quality is not as expected.,2,Negative
+R072,Phone,"The phone is decent, but there are better options at this price range.",3,Neutral
+R073,Headphones,The headphones are fine for casual listening but lack bass.,3,Neutral
+R074,Phone,The phone has an excellent camera and smooth performance. Highly recommended!,4,Positive
+R075,Tablet,The tablet works well but feels a bit overpriced.,3,Neutral
+R076,Laptop,The laptop performs exceptionally well with great battery life and a sleek design.,4,Positive
+R077,Headphones,The headphones are fine for casual listening but lack bass.,3,Neutral
+R078,Tablet,The tablet is lightweight and perfect for reading and entertainment.,5,Positive
+R079,Laptop,"The laptop runs too slow and heats up quickly, very disappointing experience.",2,Negative
+R080,Headphones,"The sound quality is crisp and clear, with great noise cancellation.",4,Positive
+R081,Headphones,"The sound quality is crisp and clear, with great noise cancellation.",5,Positive
+R082,Phone,The phone lags frequently and the battery drains too fast.,2,Negative
+R083,Camera,The camera is bulky and the image quality is not as expected.,1,Negative
+R084,Phone,The phone has an excellent camera and smooth performance. Highly recommended!,5,Positive
+R085,Laptop,The laptop is okay for its price but lacks advanced features.,3,Neutral
+R086,Laptop,The laptop performs exceptionally well with great battery life and a sleek design.,4,Positive
+R087,Headphones,The headphones are fine for casual listening but lack bass.,3,Neutral
+R088,Phone,"The phone is decent, but there are better options at this price range.",3,Neutral
+R089,Camera,"The camera captures stunning images, even in low light conditions.",4,Positive
+R090,Tablet,The tablet works well but feels a bit overpriced.,3,Neutral
+R091,Phone,The phone lags frequently and the battery drains too fast.,2,Negative
+R092,Laptop,The laptop is okay for its price but lacks advanced features.,3,Neutral
+R093,Laptop,The laptop performs exceptionally well with great battery life and a sleek design.,5,Positive
+R094,Headphones,"The headphones stopped working after a month, very poor durability.",1,Negative
+R095,Phone,"The phone is decent, but there are better options at this price range.",3,Neutral
+R096,Camera,The camera works fine for beginners but not suitable for professionals.,3,Neutral
+R097,Laptop,"The laptop runs too slow and heats up quickly, very disappointing experience.",2,Negative
+R098,Laptop,The laptop performs exceptionally well with great battery life and a sleek design.,5,Positive
+R099,Phone,"The phone is decent, but there are better options at this price range.",3,Neutral
+R100,Phone,"The phone is decent, but there are better options at this price range.",3,Neutral
